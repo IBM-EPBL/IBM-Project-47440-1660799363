@@ -39,14 +39,12 @@ form{background-color: #FBF6D9;}
             <div class="form-group">
               <label class="nameLabel"> Name</label>
               <input type="text" class="form-control" name="staff_name" id="staff_name"   >
-              <span class="error" name="staff_nameerror" id="staff_nameerror"></span> 
             </div>
           </div>
             <div class="col-md-6">
               <div class="form-group">
                 <label class="nameLabel">Email</label>
                 <input type="text" class="form-control" name="staff_mobile" id="staff_mobile" maxlength="10" required >
-                <span class="error" name="staff_mobileerror" id="staff_mobileerror"></span> 
               </div> 
             </div>
         </div>
@@ -55,14 +53,12 @@ form{background-color: #FBF6D9;}
             <div class="form-group">
               <label class="nameLabel"> Mobile</label>
               <input type="text" class="form-control" name="staff_name" id="staff_name"   >
-              <span class="error" name="staff_nameerror" id="staff_nameerror"></span> 
             </div>
           </div>
             <div class="col-md-6">
               <div class="form-group">
                 <label class="nameLabel">City</label>
                 <input type="text" class="form-control" name="staff_mobile" id="staff_mobile" maxlength="10" required >
-                <span class="error" name="staff_mobileerror" id="staff_mobileerror"></span> 
               </div> 
             </div>
         </div>
@@ -71,14 +67,12 @@ form{background-color: #FBF6D9;}
             <div class="form-group">
               <label class="nameLabel"> State</label>
               <input type="text" class="form-control" name="staff_name" id="staff_name"   >
-              <span class="error" name="staff_nameerror" id="staff_nameerror"></span> 
             </div>
           </div>
             <div class="col-md-6">
               <div class="form-group">
                 <label class="nameLabel">Country</label>
                 <input type="text" class="form-control" name="staff_mobile" id="staff_mobile" maxlength="10" required >
-                <span class="error" name="staff_mobileerror" id="staff_mobileerror"></span> 
               </div> 
             </div>
         </div>
