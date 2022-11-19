@@ -4,7 +4,7 @@
 
 | Query | Reply |
 | --- | --- |
-| Project Title | &emsp; <b>Skill/NUTRITION ASSISTANT APPLICATION</b> &emsp; |
+| Project Title | &emsp; <b>NUTRITION ASSISTANT APPLICATION</b> &emsp; |
 | Project Domain | &emsp; Cloud Application Development &emsp; |
 | Team ID | &emsp;PNT2022TMID43070&emsp; |
 | Team Size | &emsp; 4 &emsp; |
@@ -38,7 +38,7 @@
 
 <h3> Technical Architecture </h3>
 
-https://github.com/IBM-EPBL/IBM-Project-48675-1660811187/blob/main/PROJECT%20DESIGN%20%26%20PLANNING%20PHASE/PROJECT%20DESIGN%20PHASE%20I/Solution%20Architecture.pdf
+https://github.com/IBM-EPBL/IBM-Project-47440-1660799363/blob/main/Project%20Design%20Phase%20-%20II/Technology%20Architecture%20-%20NAA.pdf
 
 
 
